@@ -1,0 +1,32 @@
+ *{font-family: 'Raleway', sans-serif;}
+body{
+    background-image: url("img/Seireitei.webp");
+    background-size: cover;
+}
+img {
+    width: 100%;
+    
+  }
+.tamanho{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+p {
+    font-size: calc(1em + 1vw);
+    color: #20B2AA;
+  }
+
+h5{
+  font-size: 50px;
+  color: #6495ED;
+}
+p1{
+  font-size:70px;
+}
+h2{
+  font-size: 40px;
+}
+h1{
+  font-size: 40px;
+}
